@@ -18,3 +18,4 @@ QRator is a minimal QR code generator built with Vite, HTML, CSS, and vanilla Ja
 
 QRator is supported on all modern browsers, including Chrome, Firefox, Safari and Edge.
 
+Trigger GitHub Actions workflow
