@@ -2,18 +2,17 @@
   "name": "qrator",
   "version": "1.0.0",
   "description": "A QR code generator",
-  "main": "main.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node main.js",
+    "start": "node server.js",
     "build": "echo \"Build complete\""
   },
   "author": "Your Name",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1" 
+    "express": "^4.19.2"
   },
   "devDependencies": {
     "vite": "^4.2.0"
   }
 }
-
