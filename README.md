@@ -1,6 +1,7 @@
 # **QRator - Minimal QR Code Generator**
 
 QRator is a minimal QR code generator built with Vite, HTML, CSS, and vanilla JavaScript. It allows you to easily generate QR codes for URLs, text, and other types of data.
+sdfjn
 
 ## **Features**
 
